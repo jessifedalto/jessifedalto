@@ -8,16 +8,16 @@
  
  🔭 I’m currently working on an **electrical circuit simulator website**
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript, MySQL**
+ 🌱 I’m currently learning **React, CSS, JavaScript, C#**
 
  </div>
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,mysql,node" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,javascript,mysql,node" />
     <br />
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,vscode,java,github, jest" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,vscode,java,github,jest,react" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
