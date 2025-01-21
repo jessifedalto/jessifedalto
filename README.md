@@ -6,9 +6,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on an **electrical circuit simulator website**
+ 🔭 I’m currently working on **Data Analisys**
  
- 🌱 I’m currently learning **React, CSS, JavaScript, C#**
+ 🌱 I’m currently learning **PySpark**
 
  </div>
 
