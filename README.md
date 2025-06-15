@@ -17,7 +17,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,javascript,mysql,react" />
     <br />
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,vscode,java,github,jest, terraform" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,vscode,java,github,jest" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
